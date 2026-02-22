@@ -1,1 +1,1 @@
-print("Jenkins Using Poll SCM third time")
+print("Jenkins Using Webhooks")
