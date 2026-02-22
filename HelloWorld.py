@@ -1,1 +1,1 @@
-print("Hello from Jenkins CI!")
+print("Jenkins Using Poll SCM")
